@@ -1,0 +1,56 @@
+.body {
+	margin : 100px auto;
+}
+
+.body.home {
+	background: #007eff;
+}
+
+.body.create {
+    background: #BA1E5F;
+}
+
+.body.news {
+    background: #FFA200;
+}
+
+.body.about {
+    background: #9DD600;
+}
+
+.body.contact {
+    background: #FFEE00;
+}
+
+.title {
+	text-align: center;
+}
+
+.spun {
+	text-transform: uppercase;
+	color: #2a2a2a;
+	font-size: 100px;
+	display: inline-block;
+	font-family: 'Sigmar One', cursive;
+}
+
+.labs {
+	color: #2a2a2a;
+	font-size: 100px;
+	display: inline-block;
+	font-family: 'Zeyada', cursive;
+}
+
+.nav {
+    color: #2a2a2a;
+	font-size: 50px;
+	display: block;
+	font-family: 'Zeyada', cursive;
+    text-align: center;
+}
+
+.nav-item {
+    display: inline-block;
+    list-style: none;
+    padding: 0 10px;
+}
